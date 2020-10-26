@@ -33,11 +33,11 @@ body{
     background: black;
     float: left;
 }
-/* не могу понять как опустить этот блок вниз
 .block7{
     width: 1210px;
     height: 610px;
     background: black;
     position: absolute;
     float: left;
+    z-index: -1;
 }
