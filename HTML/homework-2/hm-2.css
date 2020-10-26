@@ -22,11 +22,8 @@ h1{
 img{
     width: 150px;
     height: 250px;
-    float: right; /* Выравнивание по правому краю  */
-    margin-top: 7px;
-    margin-right: 7px;
-    margin-left: 7px;
-    margin-bottom: 7px;
+    float: right; /* Выравнивание по правому краю, не понимаю почему втоая катинка лезет внутрь*/
+
 }
 
 h2{
