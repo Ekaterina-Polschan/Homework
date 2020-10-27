@@ -7,33 +7,32 @@ body{
     height: 100px;
     background: darkorange;
     clear: both;
-
 }
-.block2{
+.block2 {
     width: 17%;
     height: 400px;
     background: red;
     float: left;
 }
-.block3{
+.block3 {
     width: 20%;
     height: 400px;
     background: green;
     float: left;
 }
-.block4{
+.block4 {
     width: 27%;
     height: 400px;
     background: blue;
     float: left;
 }
-.block5{
+.block5 {
     width: 16%;
     height: 400px;
     background: black;
     float: left;
 }
-.block7{
+.block7 {
     width: 81%;
     height: 610px;
     background: black;
