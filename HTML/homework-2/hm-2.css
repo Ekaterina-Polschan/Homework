@@ -1,0 +1,51 @@
+body{
+    color: #FFFFFF;
+    font-family: Georgia ;
+    background-color: #000000;
+    margin-right: 15px;
+    margin-left: 15px;
+
+}
+.title{
+    text-align: center;
+    font-weight: bold;
+}
+
+h1{
+    display: block;
+    background-color: cornflowerblue;
+    color: black;
+    padding: 17px;
+    text-align: center;
+}
+
+img{
+    width: 150px;
+    height: 250px;
+    float: right; /* Выравнивание по правому краю, не понимаю почему втоая катинка лезет внутрь*/
+
+}
+
+h2{
+    display: inline-block;
+    background-color: cornflowerblue;
+    color: black;
+    border-radius: 45%;
+    padding: 17px;
+}
+
+.link{
+    font-size: large;
+    font-weight: bold;
+    margin-bottom: 2px;
+}
+
+.zzz{
+    display: inline-block;
+    background-color: silver;
+    margin: 3px;
+    padding: 2px;
+    color: black;
+    border-radius: 45px;
+    float: revert;
+}
